@@ -1,0 +1,4 @@
+# libraries needed for this project
+
+pip install numpy scipy pandas
+pip install scikit-learn
